@@ -1,5 +1,5 @@
 import React from 'react';
-import TemplateTest from './Test';
+import TemplateTest from './src/Test';
 
 const App = () => {
   return <TemplateTest />;
